@@ -1,0 +1,7 @@
+C:\Users\ilymi\source\repos\randomInt\randomInt\bin\Debug\randomInt.exe.config
+C:\Users\ilymi\source\repos\randomInt\randomInt\bin\Debug\randomInt.exe
+C:\Users\ilymi\source\repos\randomInt\randomInt\bin\Debug\randomInt.pdb
+C:\Users\ilymi\source\repos\randomInt\randomInt\obj\Debug\randomInt.csprojAssemblyReference.cache
+C:\Users\ilymi\source\repos\randomInt\randomInt\obj\Debug\randomInt.csproj.CoreCompileInputs.cache
+C:\Users\ilymi\source\repos\randomInt\randomInt\obj\Debug\randomInt.exe
+C:\Users\ilymi\source\repos\randomInt\randomInt\obj\Debug\randomInt.pdb
